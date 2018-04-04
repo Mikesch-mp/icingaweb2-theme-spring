@@ -1,6 +1,6 @@
 # Spring theme for Icinga Web 2
 
-Theme with some soft colors and nice cbacgrounds loaded from unsplash.com
+Theme with some soft colors and nice background images loaded from unsplash.com
 ![Icinga Web 2 theme Spring](https://github.com/Mikesch-mp/icingaweb2-theme-spring/raw/master/screenshots/spring-theme-login.png "Spring theme login")
 ![Icinga Web 2 theme Spring](https://github.com/Mikesch-mp/icingaweb2-theme-spring/raw/master/screenshots/spring-theme-dashboard.png "Spring theme dashboard")
 
